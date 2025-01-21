@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Bruna<br> I'm a Game and Level Design 👾</h2>
+<h2 align="left">Hello 🖖! My name is Bruna<br> I'm a Game and Level Design 👾</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <a href="brunafasani" target="_blank">
+  <a href="brunafasani" target="https://discord.com/channels/@me">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href=" linktr.ee/brunafasani22" target="_blank">
