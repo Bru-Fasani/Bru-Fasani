@@ -34,7 +34,7 @@
   <a href="https://discord.gg/brunafasani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href=" linktr.ee/brunafasani22" target="_blank">
+  <a href="https://linktr.ee/brunafasani22?utm_source=linktree_profile_share&ltsid=af2b06a0-928d-4141-9763-fe3d3c2cffe1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
