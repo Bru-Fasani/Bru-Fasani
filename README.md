@@ -1,10 +1,7 @@
 <h2 align="left">Hello 🖖! My name is Bruna<br> I'm a Backend developer and Level Design 👾</h2>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/1b/19/a5/1b19a55deb33f7a2cbf225081a13232a.gif"  />
-</div>
+<img align="right" height="149" src="https://i.pinimg.com/originals/a3/ce/e4/a3cee4ff92c376832548bfe49f47c173.gif"  />
 
 ###
 
@@ -13,16 +10,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
+ 
 ###
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bru-Fasani/Bru-Fasani/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bru-Fasani/Bru-Fasani/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bru-Fasani/Bru-Fasani/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
