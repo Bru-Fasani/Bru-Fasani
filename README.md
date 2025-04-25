@@ -28,21 +28,6 @@
 
 ###
 
-<p align="center">For more visit ⤵</p>
-
-###
-
-<div align="center">
-  <a href="brunafasani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href=" linktr.ee/brunafasani22" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bru-Fasani/Bru-Fasani/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bru-Fasani/Bru-Fasani/output/pacman-contribution-graph.svg">
