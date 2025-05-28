@@ -1,16 +1,10 @@
-<h2 align="left">Hello 👋! My name is Bruna<br> I'm Backend Developer and Game dev! 👾</h2>
-
-
+<p align="left">👋 Hey there! I'm Bruna Fasani<br><br>Welcome to my little corner of the internet, where code meets curiosity 🌱<br><br>I'm a backend developer-in-training with a passion for building solid systems, clean code, and learning one `.cs` file at a time. Currently diving deep into the world of C#, .NET, and everything in between.<br><br>---<br> ⚙️ What I'm working on:<br>- Building backend projects with C# and .NET<br>- Learning how to write tests that *actually* make sense (hello, xUnit!)<br>- Exploring APIs, databases, and clean architecture<br>- Debugging like a detective 🕵️‍♀️<br><br>---<br>🚀 Goals:<br>- Land my first junior backend dev job<br>- Write code that future me will thank me for<br>- Never stop learning (or at least, not on purpose)<br><br>---<br><br> 📚 Tech Stack in Progress:<br>- 💻 C# / .NET Core<br>- 🧪 xUnit / NUnit<br>- 🗄️ SQL & Entity Framework<br>- 🔍 Git & GitHub<br>- 🧠 Clean Code & SOLID Principles<br>---<br>Thanks for stopping by 💜</p>
 
 ###
 
 <div align="center">
   <img height="195" src="https://i.pinimg.com/originals/a3/ce/e4/a3cee4ff92c376832548bfe49f47c173.gif"  />
 </div>
-
-###
-
-<h3 align="center">Backend dev tools</h3>
 
 ###
 
@@ -29,35 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="center">Game Dev tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<h3 align="center">Other techs/ QA</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
