@@ -63,8 +63,3 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/62/c8/97/62c897b85c9573abf5ffb75359ab286e.gif"  />
-</div>
-
-###
