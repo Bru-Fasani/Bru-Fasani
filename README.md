@@ -1,4 +1,4 @@
-<p align="left">👋 Hello there! I'm Bruna Fasani<br><br>Welcome to my little corner of the internet, where code meets curiosity 🌱<br><br>I'm student of computer engineering and backend .NET developer with a passion for building solid systems, clean code, and learning one `.cs` file at a time. Currently diving deep into the world of C#, .NET, and everything in between.<br><br>---<br> ⚙️ What I'm working on:<br>- Building backend projects with C# and .NET<br>- Learning how to write tests that *actually* make sense (hello, xUnit!)<br>- Exploring APIs, databases, and clean architecture<br>- Debugging like a detective 🕵️‍♀️<br><br>---<br>🚀 Goals:<br>- Land my first junior software engineer job<br>- Write code that future me will thank me for<br>- Never stop learning (or at least, not on purpose)<br><br>---<br><br> 📚 Tech Stack in Progress:<br>- 💻 ASP.NET Core <br>- 🧪 xUnit <br>- ☁ AWS / AZURE <br>- 🧠 Clean Arch & SOLID Principles<br>- 🧩Design Patterns<br> -🐳 Docker & Kubernets <br>---<br>Thanks for stopping by 💜</p>
+<p align="left">👋 Hello there! I'm Bruna Fasani<br><br>Welcome to my little corner of the internet, where code meets curiosity 🌱<br><br>I'm student of computer engineering and backend .NET developer with a passion for building solid systems, clean code, and learning one `.cs` file at a time. Currently diving deep into the world of C#, .NET, and everything in between.<br><br>---<br> ⚙️ What I'm working on:<br>- Building backend projects with C# and .NET<br>- Learning how to write tests that *actually* make sense (hello, xUnit!)<br>- Exploring APIs, databases, and clean architecture<br>- Debugging like a detective 🕵️‍♀️<br><br>---<br>🚀 Goals:<br>- Land my first junior software engineer or Software Developer job<br>- Write code that future me will thank me for<br>- Never stop learning (or at least, not on purpose)<br><br>---<br><br> 📚 Tech Stack in Progress:<br>- 🔐 JWT <br>- 🧪 xUnit <br>- ☁ AWS / AZURE <br>- 🧠 Clean Arch & SOLID Principles<br>- 🧩Design Patterns<br> -🐳 Docker & Kubernets <br>---<br>Thanks for stopping by 💜</p>
 
 ###
 
@@ -18,9 +18,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="30" />
+  <img width="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -37,25 +35,14 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 
