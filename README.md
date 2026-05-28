@@ -1,4 +1,4 @@
-<p align="left">👋 Hello there! I'm Bruna Fasani<br><br>Welcome to my little corner of the internet, where code meets curiosity 🌱<br><br>I'm student of computer engineering and backend .NET developer with a passion for building solid systems, clean code, and learning one `.cs` file at a time. Currently diving deep into the world of C#, .NET, and everything in between.<br><br>---<br> ⚙️ What I'm working on:<br>- Building backend projects with C# and .NET<br>- Learning how to write tests that *actually* make sense (hello, xUnit!)<br>- Exploring APIs, databases, and clean architecture<br>- Debugging like a detective 🕵️‍♀️<br><br>---<br>🚀 Goals:<br>- Land my first junior software engineer or Software Developer job<br>- Write code that future me will thank me for<br>- Never stop learning (or at least, not on purpose)<br><br>---<br><br> 📚 Tech Stack in Progress:<br>- 🖥 HTML, CSS & JavaScript <br>- 🔐 JWT <br>- 🧪 xUnit <br>- ☁ AWS / AZURE <br>- 🧠 Clean Arch & SOLID Principles<br>- 🧩Design Patterns<br> -🐳 Docker & Kubernets <br>---<br>Thanks for stopping by 💜</p>
+<p align="left">👋 Hey there! I'm Bruna Fasani<br><br>Welcome to my little corner of the internet, where code meets curiosity 🌱<br><br>I'm engineering student and .NET developer with a passion for building solid systems, clean code, and learning one `.cs` file at a time. Currently diving deep into the world of C#, .NET, and everything in between.<br><br>-----------------------------------------<br> ⚙️ What I'm working on:<br>- Building Fullstack projects with HTML,CSS Javascript and .NET core<br>- Learning how to write tests that *actually* make sense (hello, xUnit!)<br>- Exploring UI, APIs, databases, and clean architecture<br>- Debugging like a detective 🕵️‍♀️<br><br>----------------------------------------<br>🚀 Goals:<br>- Land my first junior dev job<br>- Write code that future me will thank me for<br>- Never stop learning (or at least, not on purpose)<br><br>----------------------------------------<br><br> 📚 Tech Stack in Progress:<br>- 💻 HTML,CSS & Javascript<br>- 🛡 Angular<br>- 🔐 JWT<br>- 🧪 xUnit <br>- ☁ Azure & AWS<br>- 🐳 Docker and Kubernets<br>- 🐧 Linux<br>- 🧠 Clean Arch and Design Patterns<br><br>---------------------------------------<br><br>Thanks for stopping by 💜</p>
 
 ###
 
@@ -18,32 +18,32 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="30" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
+
 
 
 ###
@@ -54,4 +54,8 @@
 </div>
 
 ###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+###
